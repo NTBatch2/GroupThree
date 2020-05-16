@@ -6,7 +6,9 @@ public class Demo {
 		System.out.println("Group Three");
 		System.out.println("Practice more");
 	}
-	
+	public void display() {
+		System.out.println("Lulu");
+	}
 
 	}
 
