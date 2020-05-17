@@ -8,6 +8,15 @@ public class Demo {
 	    System.out.println("Good morning team");
 	
 	}
+	//mohammed code
+	
+	public static void getNum() {
+		System.out.println();
+		
+	}
+	
+	
+	
 
 	}
 
