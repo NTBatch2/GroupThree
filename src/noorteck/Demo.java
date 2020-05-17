@@ -13,6 +13,10 @@ public class Demo {
 	public static void getNum() {
 		System.out.println();
 		
+
+
+
+
 	}
 	
 	
