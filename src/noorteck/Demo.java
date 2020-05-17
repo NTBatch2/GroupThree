@@ -8,16 +8,10 @@ public class Demo {
 	    System.out.println("Good sunday ");
 	
 	}
-	//mohammed code
-	
-	public static void getNum() {
-		System.out.println();
-		
-
-
-
-
+	public void display() {
+		System.out.println("Lulu");
 	}
+	
 	
 	
 	
