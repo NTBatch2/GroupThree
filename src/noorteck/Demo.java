@@ -10,6 +10,10 @@ public class Demo {
 		System.out.println("Lulu");
 	}
 	//mohammed code
+	
+	public static void getNum() {
+		System.out.println();
+	}
 
 	}
 

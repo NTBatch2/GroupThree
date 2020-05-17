@@ -6,4 +6,10 @@ public class Jawed {
 		System.out.println("when life give u a lemon make a lemonade");
 	}
    // when life give u a lemon make a lemonade
+	
+	public static void display() {
+		System.out.println();
+	}
+	
+	
 }
